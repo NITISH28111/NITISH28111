@@ -78,6 +78,6 @@ class NitishKumar:
 
 <br>
 
-<sub>&nbsp;&nbsp;<a href="mailto:N.Kumar122003@gmail.com">Gmail</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://www.linkedin.com/in/nitish-kumar-csehons-isl">LinkedIn</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/NITISH28111">GitHub</a></sub>
+<sub>&nbsp;&nbsp;<a href="mailto:N.Kumar122003@gmail.com">Gmail</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://www.linkedin.com/in/nitish-kumar-cse-hons-is">LinkedIn</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/NITISH28111">GitHub</a></sub>
 
 <br>
